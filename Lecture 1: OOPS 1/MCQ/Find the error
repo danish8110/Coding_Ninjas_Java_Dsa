@@ -1,0 +1,25 @@
+Which line of the following code would give an error?
+
+
+  class Car{
+     int year;
+      String company_name;
+  }
+  class New_Car {
+      public static void main (String[] args) {
+          Car c=new Car();        //Line 1
+          year=2018;              //Line 2
+          c.company_name="Honda"; //Line 3
+      }
+  }
+  
+  
+ Solution:
+  
+  This problem has only one correct answer
+       Line 1
+-->    Line 2
+       Line 3
+       No error
+
+  

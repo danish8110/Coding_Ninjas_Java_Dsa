@@ -1,0 +1,28 @@
+What can be the possible output of the following code?
+
+    
+    class Student{
+        int roll_no;
+        String name;
+    }
+    class Test {
+            public static void main (String[] args) {
+            Student s=new Student();
+            System.out.println(s);
+        }
+    }
+    
+    
+Solution:
+
+            This problem has only one correct answer
+                    547a85bc
+                    [I@232204a1
+           --->     Student@232204a1     
+                    Student@4578ig32
+
+  Solution Description
+  
+      The class is of Type student and it would be followed by a hexadecimal code.So the address would be like Student@.....
+      hexadecimal code.
+      (Option 4 is not a hexadecimal code.)

@@ -1,0 +1,9 @@
+
+Which access modifier can be used to access a variable outside the class and within the package?
+
+-->    Public 
+       Private
+-->    Default 
+
+Solution:
+      Public and Default are the access modifier can be used to access a variable outside the class and within the package

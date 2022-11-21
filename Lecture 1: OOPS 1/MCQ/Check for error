@@ -1,0 +1,19 @@
+
+Would the following code generate any error?
+    class Student{
+        private int roll_no;
+        String name;
+    }
+    class DPS {
+          public static void main (String[] args) {
+            Student s=new Student();
+            s.name="Neha";
+           System.out.println(s.name);
+          }
+    }
+
+Ques.  This problem has only one correct answer  
+               Yes
+    -->        No
+    
+    And The Answer is NO
